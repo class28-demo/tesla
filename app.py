@@ -1,0 +1,2 @@
+print('junior')
+#echo junior
